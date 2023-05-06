@@ -1,0 +1,22 @@
+# Grass records of Australia
+---
+
+Data set contains the records of grasses across Australia used in this study, as well as the total number of records originally downloaded from which we filtered from to use in this study. 
+
+
+## Description of the data and file structure
+
+All contained in the Rscript files from downloading the records to filtering, summarising, analysing, and visualising. 
+
+
+## Sharing/Access information
+
+Citing data is all that is required to re-use these records.
+
+Data was derived from the following sources:
+  * Atlas of Living Australia, in 2020
+
+
+## Code/Software
+
+All code is contained in the data set file, all steps were completed in RStudio, using R version 4.0.1.
